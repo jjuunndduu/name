@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Họ tên</title>
+  <style>
+    :root{--gap:12px;--accent:#0a58ca;--border:#ddd}
+    body{font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Noto Sans', Arial; background:#f5f7fb; color:#111; padding:20px}
+    .wrap{max-width:960px;margin:0 auto}
+    h1{font-size:20px;margin-bottom:12px}
+
+    .search-row{display:flex;gap:8px;align-items:center;margin-bottom:18px}
+    #q{flex:1;padding:10px 12px;font-size:16px;border:1px solid var(--border);border-radius:8px}
+
+    /* card */
+		.cards {
+			display: flex;
+			flex-direction: column;
+			gap: 16px;
+		}
+    .card {
+		background: none;
+		border: none; /* viền xanh nhạt */
+		padding: 0;
+		border-radius: 10px;
+		box-shadow: 0 6px 18px rgba(2, 6, 23, 0.04);
+		/* overflow: hidden; */
+	}
+
+    /* top row: two equal boxes side by side */
+		.top {
+			display: flex;
+			gap: 10px; /* khoảng cách giữa 2 khung */
+			align-items: stretch;
+			border-bottom: none; /* bỏ viền ngang */
+		}
+
+		.groupbox {
+			flex: 1;
+			padding: 18px;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: flex-start;
+			border: 3px solid #add8e6; /* mỗi khung có viền riêng */
+			border-radius: 10px; /* bo góc riêng */
+			background: #fff; /* nền trắng */
+		}
+
+		/* Bỏ viền ngăn giữa */
+		.groupbox.left {
+			border-right: 3px solid #add8e6;
+		}
+
+		.group-title {
+			font-weight: 700;
+			margin-bottom: 8px;
+			color: #333;
+		}
+		.meaning-box {
+			background: #f0f0f0;
+			border: 3px solid #add8e6 !important; /* xanh nhạt */
+			margin-top: auto; /* đẩy meaning xuống cuối */
+			padding: 18px;
+			border-radius: 5px;    /* bo nhẹ góc */
+			text-align: left; /* căn chữ sang trái */
+			font-size: 1.2em;
+			height: auto; /* Tự động cao theo nội dung */
+			box-sizing: border-box; /* Đảm bảo padding không làm vượt khung */
+		}
+
+		/* Đảm bảo container trên meaning không có nét đứt */
+		.card .meaning-box {
+			margin-top: 0;
+		}
+
+	
+
+
+	/* xác định chữ hán và chữ tiếng việt nằm cùng hàng ngang */
+	.groupbox {
+		flex: 1;
+		padding: 18px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: flex-start; /* đẩy nội dung lên trên */
+		}
+
+    /* left: chữ Hán lớn + pinyin */
+		.hanzi {
+			font-size: 140px;
+			line-height: 1;
+			font-weight: 800;
+		}
+		.pinyin {
+			margin-top: 10px;
+			font-size: 22px;
+			color: red; /* Đổi sang màu đỏ */
+		}
+
+	/* right: tiếng Việt */
+	.viet {
+		font-size: 45px;
+		font-weight: 700;
+		display: flex;
+		align-items: center;   /* căn giữa theo chiều dọc */
+		justify-content: center; /* căn giữa theo chiều ngang */
+		height: 100%; /* chiếm toàn bộ chiều cao groupbox */
+	}
+	
+	/*Cho tieu đề Họ tên trong Tiếng Trung nằm ở giữa  */
+	.wrap h1 {
+	  text-align: center;
+	}
+
+
+    /* meaning row spans full width under the two boxes */
+    .meaning{border-top:1px dashed #e6e9ef;padding:14px;text-align:center;font-size:18px;color:#222}
+
+    .noresult{color:#b91c1c;font-weight:700;padding:12px}
+
+    @media (max-width:520px){
+		  .top {
+			flex-direction: column; /* Xếp dọc */
+			gap: 10px; /* khoảng cách giữa 2 khung */
+			border-bottom: none; /* bỏ viền ngang */
+		  }
+
+		  /* Khung chữ Hán */
+		  .groupbox.left {
+			border-right: none; /* bỏ viền phải */
+			border: 3px solid #add8e6;
+			border-radius: 10px;
+		  }
+
+		  /* Khung chữ Việt */
+		  .groupbox.right {
+			border: 3px solid #add8e6;
+			border-radius: 10px;
+		  }
+
+		  /* Kích thước chữ trên điện thoại */
+		  .hanzi {font-size: 72px}
+		  .viet {font-size: 22px}
+		}
+		
+  </style>
+ 
+  
+</head>
+<body>
+  <div class="wrap">
+    <h1>TÌM KIẾM TÊN</h1>		
+    <div class="search-row">
+      <input id="q" placeholder="Nhập từ vào đây" autofocus />
+    </div>
+
+    <div id="cards" class="cards">
+      <div style="color:#666;padding:10px">Nhập từ để xem kết quả (ví dụ: "Thành" hoặc "成").</div>
+    </div>
+  </div>
+
+  <script>
+    // Dữ liệu mẫu
+const dataUrl = 'https://raw.githubusercontent.com/quangthanhqldd/name/refs/heads/main/name.json';
+
+  let data = [];
+
+  const qInput = document.getElementById('q');
+  const cards = document.getElementById('cards');
+
+  function removeDiacritics(str) {
+    if(!str) return '';
+    return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/đ/g,'d').replace(/Đ/g,'D');
+  }
+
+  function isChinese(text) {
+    return /[\u4E00-\u9FFF]/.test(text);
+  }
+
+
+
+function findMatches(query) {
+  if (!query) return [];
+  query = query.trim();
+
+  if (isChinese(query)) {
+    return data.filter(item => item.hanzi.includes(query));
+  }
+
+  const qnorm = query.toLowerCase();
+  return data.filter(item => {
+    const vietNorm = (item.vietnamese || '').toLowerCase().trim();
+    return vietNorm === qnorm;
+  });
+}
+
+
+
+
+
+
+
+  function render(matches) {
+    cards.innerHTML = '';
+    if(matches.length === 0){
+      cards.innerHTML = '<div class="noresult">Không tìm thấy kết quả.</div>';
+      return;
+    }
+
+    matches.forEach(it => {
+      const card = document.createElement('div'); card.className = 'card';
+
+      const top = document.createElement('div'); top.className = 'top';
+
+      const left = document.createElement('div'); left.className = 'groupbox left';
+      const title1 = document.createElement('div'); title1.className = 'group-title'; title1.textContent = 'Chữ Hán';
+      const han = document.createElement('div'); han.className = 'hanzi'; han.textContent = it.hanzi;
+      const pin = document.createElement('div'); pin.className = 'pinyin'; pin.textContent = it.pinyin;
+      left.appendChild(title1); left.appendChild(han); left.appendChild(pin);
+
+      const right = document.createElement('div'); right.className = 'groupbox';
+      const title2 = document.createElement('div'); title2.className = 'group-title'; title2.textContent = 'Tiếng Việt';
+      const viet = document.createElement('div'); viet.className = 'viet'; viet.textContent = it.vietnamese;
+      right.appendChild(title2); right.appendChild(viet);
+
+      top.appendChild(left); top.appendChild(right);
+
+      const mean = document.createElement('div'); mean.className = 'meaning'; mean.textContent = it.meaning;
+
+      card.appendChild(top); card.appendChild(mean);
+      cards.appendChild(card);
+    });
+  }
+
+  fetch(dataUrl)
+    .then(response => {
+      if (!response.ok) throw new Error('Network response was not ok');
+      return response.json();
+    })
+    .then(jsonData => {
+      data = jsonData;
+      console.log('Dữ liệu đã load:', data);
+    })
+    .catch(error => {
+      console.error('Lỗi khi fetch dữ liệu:', error);
+    });
+
+  qInput.addEventListener('input', () => {
+    const q = qInput.value;
+    if(q === '') {
+      cards.innerHTML = '<div style="color:#666;padding:10px">Nhập từ để xem kết quả (ví dụ: "Thành" hoặc "成").</div>';
+      return;
+    }
+    const matches = findMatches(q);
+    render(matches);
+  });
+  </script>
+</body>
+</html>

@@ -1781,4 +1781,599 @@
    "PHÙ": "HỒ",
    "Biểu tượng nâng đỡ, thông điệp về tinh thần tương trợ": "Biểu tượng họ Hồ, thông điệp về nguồn gốc đa văn hóa"
  },
+ {
+   "湖": "瑚",
+   "Hú": "Hú ",
+   "HỒ": "HỒ",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng ngọc san hô, thông điệp về vẻ đẹp quý giá"
+ },
+ {
+   "湖": "蝴",
+   "Hú": "Hú ",
+   "HỒ": "HỒ",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng con bướm, thông điệp về sự chuyển hóa và tự do"
+ },
+ {
+   "湖": "許",
+   "Hú": "Xǔ ",
+   "HỒ": "HỨA",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng họ Hứa (phồn thể), thông điệp về sự bao dung"
+ },
+ {
+   "湖": "扈",
+   "Hú": "Hù ",
+   "HỒ": "HỘ",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng hộ tống, thông điệp về sự bảo vệ chu đáo"
+ },
+ {
+   "湖": "花",
+   "Hú": "Huā ",
+   "HỒ": "HOA",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng hoa, thông điệp về vẻ đẹp và sự nở rộ"
+ },
+ {
+   "湖": "华",
+   "Hú": "Huá ",
+   "HỒ": "HOA",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng rực rỡ, thông điệp về sự huy hoàng"
+ },
+ {
+   "湖": "滑",
+   "Hú": "Huá ",
+   "HỒ": "HOẠT",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng trơn tru, thông điệp về sự linh hoạt"
+ },
+ {
+   "湖": "化",
+   "Hú": "Huà ",
+   "HỒ": "HÓA",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng biến hóa, thông điệp về khả năng thích nghi"
+ },
+ {
+   "湖": "话",
+   "Hú": "Huà ",
+   "HỒ": "THOẠI",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng lời nói, thông điệp về giao tiếp khéo léo"
+ },
+ {
+   "湖": "婳",
+   "Hú": "Huà ",
+   "HỒ": "HỌA",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng vẻ đẹp, thông điệp về sự duyên dáng nữ tính"
+ },
+ {
+   "湖": "祎",
+   "Hú": "Yī ",
+   "HỒ": "Y",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng tốt lành, thông điệp về những điều may mắn"
+ },
+ {
+   "湖": "怀",
+   "Hú": "Huái ",
+   "HỒ": "HOÀI",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng ôm ấp, thông điệp về tấm lòng nhân ái"
+ },
+ {
+   "湖": "欢",
+   "Hú": "Huān ",
+   "HỒ": "HOAN",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng vui vẻ, thông điệp về niềm hạnh phúc"
+ },
+ {
+   "湖": "环",
+   "Hú": "Huán ",
+   "HỒ": "HOÀN",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng vòng tròn, thông điệp về sự viên mãn"
+ },
+ {
+   "湖": "桓",
+   "Hú": "Huán ",
+   "HỒ": "HOÀN",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng cây cổ thụ, thông điệp về sự bền vững"
+ },
+ {
+   "湖": "奂",
+   "Hú": "Huàn ",
+   "HỒ": "HOÁN",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng rực rỡ, thông điệp về vẻ đẹp lộng lẫy"
+ },
+ {
+   "湖": "宦",
+   "Hú": "Huàn ",
+   "HỒ": "HOẠN",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng quan lại, thông điệp về địa vị xã hội"
+ },
+ {
+   "湖": "皇",
+   "Hú": "Huáng ",
+   "HỒ": "HOÀNG",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng hoàng đế, thông điệp về quyền uy tối thượng"
+ },
+ {
+   "湖": "甫",
+   "Hú": "Fǔ ",
+   "HỒ": "PHỦ",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng bắt đầu, thông điệp về khởi đầu tốt đẹp"
+ },
+ {
+   "湖": "黄",
+   "Hú": "Huáng ",
+   "HỒ": "HOÀNG",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng màu vàng, thông điệp về sự cao quý"
+ },
+ {
+   "湖": "黄",
+   "Hú": "Huáng ",
+   "HỒ": "HUỲNH",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng họ Hoàng, thông điệp về dòng dõi hoàng tộc"
+ },
+ {
+   "湖": "凰",
+   "Hú": "Huáng ",
+   "HỒ": "HOÀNG",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng phượng hoàng, thông điệp về sự tái sinh"
+ },
+ {
+   "湖": "煌",
+   "Hú": "Huáng ",
+   "HỒ": "HOÀNG",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng rực sáng, thông điệp về ánh hào quang"
+ },
+ {
+   "湖": "辉",
+   "Hú": "Huī ",
+   "HỒ": "HUY",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng ánh sáng, thông điệp về vinh quang rực rỡ"
+ },
+ {
+   "湖": "暉",
+   "Hú": "Huī ",
+   "HỒ": "HUY",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng ánh dương (phồn thể), thông điệp về hy vọng"
+ },
+ {
+   "湖": "輝",
+   "Hú": "Huī ",
+   "HỒ": "HUY",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng hào quang (phồn thể), thông điệp về thành tựu"
+ },
+ {
+   "湖": "麾",
+   "Hú": "Huī ",
+   "HỒ": "HUY",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng cờ lệnh, thông điệp về quyền chỉ huy"
+ },
+ {
+   "湖": "徽",
+   "Hú": "Huī ",
+   "HỒ": "HUY",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng huy hiệu, thông điệp về danh dự và phẩm giá"
+ },
+ {
+   "湖": "回",
+   "Hú": "Huí ",
+   "HỒ": "HỒI",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng quay về, thông điệp về sự trở lại đầy ý nghĩa"
+ },
+ {
+   "湖": "悔",
+   "Hú": "Huǐ ",
+   "HỒ": "HỐI",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng hối hận, thông điệp về bài học cuộc sống"
+ },
+ {
+   "湖": "会",
+   "Hú": "Huì ",
+   "HỒ": "HỘI",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng gặp gỡ, thông điệp về cơ hội và kết nối"
+ },
+ {
+   "湖": "荟",
+   "Hú": "Huì ",
+   "HỒ": "HỘI",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng tụ hội, thông điệp về sự phong phú đa dạng"
+ },
+ {
+   "湖": "绘",
+   "Hú": "Huì ",
+   "HỒ": "HỘI",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng hội họa, thông điệp về nghệ thuật sáng tạo"
+ },
+ {
+   "湖": "惠",
+   "Hú": "Huì ",
+   "HỒ": "HUỆ",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng ân huệ, thông điệp về lòng nhân ái"
+ },
+ {
+   "湖": "喙",
+   "Hú": "Huì ",
+   "HỒ": "HUẾ",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng mỏ chim, thông điệp về sự sắc sảo"
+ },
+ {
+   "湖": "缋",
+   "Hú": "Huì ",
+   "HỒ": "HỘI",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng thêu hoa, thông điệp về sự tinh xảo"
+ },
+ {
+   "湖": "僡",
+   "Hú": "Huì ",
+   "HỒ": "HUỆ",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng nhân từ, thông điệp về đức tính tốt"
+ },
+ {
+   "湖": "慧",
+   "Hú": "Huì ",
+   "HỒ": "TUỆ",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng trí tuệ, thông điệp về sự thông thái"
+ },
+ {
+   "湖": "活",
+   "Hú": "Huó ",
+   "HỒ": "HOẠT",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng sự sống, thông điệp về năng lượng tích cực"
+ },
+ {
+   "湖": "火",
+   "Hú": "Huǒ ",
+   "HỒ": "HỎA",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng lửa, thông điệp về nhiệt huyết và đam mê"
+ },
+ {
+   "湖": "获",
+   "Hú": "Huò ",
+   "HỒ": "HOẠCH",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng thu hoạch, thông điệp về thành quả lao động"
+ },
+ {
+   "湖": "霍",
+   "Hú": "Huò ",
+   "HỒ": "HOẮC",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng nhanh chóng, thông điệp về sự quyết đoán"
+ },
+ {
+   "湖": "姬",
+   "Hú": "Jī ",
+   "HỒ": "CƠ",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng mỹ nữ, thông điệp về vẻ đẹp cổ điển"
+ },
+ {
+   "湖": "嵇",
+   "Hú": "Jī ",
+   "HỒ": "KÊ",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng họ Kê, thông điệp về nguồn gốc thanh cao"
+ },
+ {
+   "湖": "吉",
+   "Hú": "Jí ",
+   "HỒ": "CÁT",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng may mắn, thông điệp về điềm lành"
+ },
+ {
+   "湖": "汲",
+   "Hú": "Jí ",
+   "HỒ": "CẤP",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng múc nước, thông điệp về sự chăm chỉ"
+ },
+ {
+   "湖": "籍",
+   "Hú": "Jí ",
+   "HỒ": "TỊCH",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng sổ sách, thông điệp về truyền thống gia tộc"
+ },
+ {
+   "湖": "计",
+   "Hú": "Jì ",
+   "HỒ": "KẾ",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng tính toán, thông điệp về sự thông minh"
+ },
+ {
+   "湖": "纪",
+   "Hú": "Jì ",
+   "HỒ": "KỶ",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng kỷ luật, thông điệp về nguyên tắc sống"
+ },
+ {
+   "湖": "季",
+   "Hú": "Jì ",
+   "HỒ": "QUÝ",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng mùa, thông điệp về sự luân chuyển của thời gian"
+ },
+ {
+   "湖": "蓟",
+   "Hú": "Jì ",
+   "HỒ": "KẾ",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng cây kế, thông điệp về sự kiên cường vượt khó"
+ },
+ {
+   "湖": "暨",
+   "Hú": "Jì ",
+   "HỒ": "KỊ",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng cùng với, thông điệp về sự kết nối hài hòa"
+ },
+ {
+   "湖": "冀",
+   "Hú": "Jì ",
+   "HỒ": "KÝ",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng hy vọng, thông điệp về ước mơ và khát vọng"
+ },
+ {
+   "湖": "佳",
+   "Hú": "Jiā ",
+   "HỒ": "GIAI",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng tốt đẹp, thông điệp về sự hoàn hảo và xuất sắc"
+ },
+ {
+   "湖": "家",
+   "Hú": "Jiā ",
+   "HỒ": "GIA",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng gia đình, thông điệp về tổ ấm và sự yêu thương"
+ },
+ {
+   "湖": "嘉",
+   "Hú": "Jiā ",
+   "HỒ": "GIA",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng tốt lành, thông điệp về những điều may mắn"
+ },
+ {
+   "湖": "郏",
+   "Hú": "Jiá ",
+   "HỒ": "HIỆP",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng họ Giáp, thông điệp về nguồn gốc gia tộc"
+ },
+ {
+   "湖": "贾",
+   "Hú": "Jiǎ ",
+   "HỒ": "GIẢ",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng họ Giả, thông điệp về tài năng kinh doanh"
+ },
+ {
+   "湖": "坚",
+   "Hú": "Jiān ",
+   "HỒ": "KIÊN",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng kiên cường, thông điệp về ý chí bền bỉ"
+ },
+ {
+   "湖": "简",
+   "Hú": "Jiǎn ",
+   "HỒ": "GIẢN",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng giản dị, thông điệp về lối sống thanh cao"
+ },
+ {
+   "湖": "建",
+   "Hú": "Jiàn ",
+   "HỒ": "KIẾN",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng xây dựng, thông điệp về sự phát triển bền vững"
+ },
+ {
+   "湖": "牮",
+   "Hú": "Jiàn ",
+   "HỒ": "TIẾN",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng cột chống, thông điệp về sự nâng đỡ vững chắc"
+ },
+ {
+   "湖": "江",
+   "Hú": "Jiāng ",
+   "HỒ": "GIANG",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng sông lớn, thông điệp về dòng chảy cuộc đời"
+ },
+ {
+   "湖": "姜",
+   "Hú": "Jiāng ",
+   "HỒ": "KHƯƠNG",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng họ Khương, thông điệp về sự mạnh mẽ"
+ },
+ {
+   "湖": "彊",
+   "Hú": "Jiāng ",
+   "HỒ": "CƯỜNG",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng mạnh mẽ, thông điệp về sức mạnh nội tại"
+ },
+ {
+   "湖": "疆",
+   "Hú": "Jiāng ",
+   "HỒ": "CƯƠNG",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng biên giới, thông điệp về sự bảo vệ lãnh thổ"
+ },
+ {
+   "湖": "蒋",
+   "Hú": "Jiǎng ",
+   "HỒ": "TƯỞNG",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng họ Tưởng, thông điệp về dòng dõi quý tộc"
+ },
+ {
+   "湖": "交",
+   "Hú": "Jiāo ",
+   "HỒ": "GIAO",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng giao lưu, thông điệp về mối quan hệ xã hội"
+ },
+ {
+   "湖": "娇",
+   "Hú": "Jiāo ",
+   "HỒ": "KIỀU",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng kiều diễm, thông điệp về vẻ đẹp nữ tính"
+ },
+ {
+   "湖": "焦",
+   "Hú": "Jiāo ",
+   "HỒ": "TIÊU",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng tập trung, thông điệp về sự chuyên tâm"
+ },
+ {
+   "湖": "杰",
+   "Hú": "Jié ",
+   "HỒ": "KIỆT",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng tài năng, thông điệp về sự xuất chúng"
+ },
+ {
+   "湖": "洁",
+   "Hú": "Jié ",
+   "HỒ": "KHIẾT",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng trong sạch, thông điệp về sự thanh khiết"
+ },
+ {
+   "湖": "结",
+   "Hú": "Jié ",
+   "HỒ": "KẾT",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng kết nối, thông điệp về mối quan hệ bền chặt"
+ },
+ {
+   "湖": "捷",
+   "Hú": "Jié ",
+   "HỒ": "TIỆP",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng nhanh nhẹn, thông điệp về sự thành công nhanh chóng"
+ },
+ {
+   "湖": "解",
+   "Hú": "Jiě ",
+   "HỒ": "GIẢI",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng giải quyết, thông điệp về khả năng phân tích"
+ },
+ {
+   "湖": "界",
+   "Hú": "Jiè ",
+   "HỒ": "GIỚI",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng ranh giới, thông điệp về sự phân định rõ ràng"
+ },
+ {
+   "湖": "今",
+   "Hú": "Jīn ",
+   "HỒ": "KIM",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng hiện tại, thông điệp về trân trọng hiện tại"
+ },
+ {
+   "湖": "金",
+   "Hú": "Jīn ",
+   "HỒ": "KIM",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng vàng, thông điệp về sự quý giá và giàu có"
+ },
+ {
+   "湖": "锦",
+   "Hú": "Jǐn ",
+   "HỒ": "CẨM",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng gấm vóc, thông điệp về tương lai tươi sáng"
+ },
+ {
+   "湖": "锦",
+   "Hú": "Jǐn ",
+   "HỒ": "GẤM",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng hoa văn, thông điệp về vẻ đẹp tinh tế"
+ },
+ {
+   "湖": "谨",
+   "Hú": "Jǐn ",
+   "HỒ": "CẨN",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng cẩn trọng, thông điệp về sự chu đáo"
+ },
+ {
+   "湖": "瑾",
+   "Hú": "Jǐn ",
+   "HỒ": "CẨN",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng ngọc quý, thông điệp về phẩm chất cao quý"
+ },
+ {
+   "湖": "錦",
+   "Hú": "Jǐn ",
+   "HỒ": "GẤM",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng gấm hoa (phồn thể), thông điệp về thành công rực rỡ"
+ },
+ {
+   "湖": "进",
+   "Hú": "Jìn ",
+   "HỒ": "TIẾN",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng tiến lên, thông điệp về sự phát triển"
+ },
+ {
+   "湖": "近",
+   "Hú": "Jìn ",
+   "HỒ": "CẬN",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng gần gũi, thông điệp về mối quan hệ thân thiết"
+ },
+ {
+   "湖": "晋",
+   "Hú": "Jìn ",
+   "HỒ": "TẤN",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng thăng tiến, thông điệp về sự nghiệp phát đạt"
+ },
+ {
+   "湖": "浸",
+   "Hú": "Jìn ",
+   "HỒ": "XÂM",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng thấm nhuần, thông điệp về ảnh hưởng sâu sắc"
+ },
+ {
+   "湖": "進",
+   "Hú": "Jìn ",
+   "HỒ": "TIẾN",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng tiến bộ (phồn thể), thông điệp về sự cải thiện"
+ },
+ {
+   "湖": "靳",
+   "Hú": "Jìn ",
+   "HỒ": "CẬN",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng họ Cận, thông điệp về sự quý giá"
+ },
+ {
+   "湖": "经",
+   "Hú": "Jīng ",
+   "HỒ": "KINH",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng kinh điển, thông điệp về tri thức uyên thâm"
+ },
+ {
+   "湖": "荆",
+   "Hú": "Jīng ",
+   "HỒ": "KINH",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng cây gai, thông điệp về sức sống mãnh liệt"
+ },
+ {
+   "湖": "井",
+   "Hú": "Jǐng ",
+   "HỒ": "TỈNH",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng giếng nước, thông điệp về nguồn sống dồi dào"
+ },
+ {
+   "湖": "景",
+   "Hú": "Jǐng ",
+   "HỒ": "CẢNH",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng phong cảnh, thông điệp về tầm nhìn rộng mở"
+ },
+ {
+   "湖": "仪",
+   "Hú": "Yí ",
+   "HỒ": "NGHI",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng nghi thức, thông điệp về sự lịch thiệp"
+ },
+ {
+   "湖": "净",
+   "Hú": "Jìng ",
+   "HỒ": "TỊNH",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng sạch sẽ, thông điệp về sự thuần khiết"
+ },
+ {
+   "湖": "婧",
+   "Hú": "Jìng ",
+   "HỒ": "TỊNH",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng tài nữ, thông điệp về vẻ đẹp tài hoa"
+ },
+ {
+   "湖": "琪",
+   "Hú": "Qí ",
+   "HỒ": "KỲ",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng ngọc đẹp, thông điệp về sự quý phái"
+ },
+ {
+   "湖": "敬",
+   "Hú": "Jìng ",
+   "HỒ": "KÍNH",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng tôn kính, thông điệp về sự kính trọng"
+ },
+ {
+   "湖": "静",
+   "Hú": "Jìng ",
+   "HỒ": "TỊNH",
+   "Biểu tượng hồ nước, thông điệp về sự bình yên": "Biểu tượng tĩnh lặng, thông điệp về sự bình an nội tâm"
+ }
+
 ]

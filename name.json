@@ -1,0 +1,884 @@
+[
+ {
+   "hanzi": "日",
+   "pinyin": "Rì ",
+   "vietnamese": "NHẬT",
+   "meaning": "Biểu tượng mặt trời, thông điệp về năng lượng và sự rạng rỡ"
+ },
+ {
+   "hanzi": "日",
+   "pinyin": "Rì ",
+   "vietnamese": "NHỰT",
+   "meaning": "Biểu tượng ngày mới, thông điệp về hy vọng và khởi đầu"
+ },
+ {
+   "hanzi": "甲",
+   "pinyin": "Jiǎ ",
+   "vietnamese": "GIÁP",
+   "meaning": "Biểu tượng can Giáp (đầu tiên), thông điệp về sự dẫn đầu"
+ },
+ {
+   "hanzi": "丁",
+   "pinyin": "Dīng ",
+   "vietnamese": "ĐINH",
+   "meaning": "Biểu tượng can Đinh, thông điệp về sự vững chắc"
+ },
+ {
+   "hanzi": "亥",
+   "pinyin": "Hài ",
+   "vietnamese": "HỢI",
+   "meaning": "Biểu tượng chi Hợi, thông điệp về sự phong phú"
+ },
+ {
+   "hanzi": "己",
+   "pinyin": "Jǐ ",
+   "vietnamese": "KỶ",
+   "meaning": "Biểu tượng can Kỷ, thông điệp về bản ngã"
+ },
+ {
+   "hanzi": "壬",
+   "pinyin": "Rén ",
+   "vietnamese": "NHÂM",
+   "meaning": "Biểu tượng can Nhâm, thông điệp về trách nhiệm"
+ },
+ {
+   "hanzi": "一",
+   "pinyin": "Yī ",
+   "vietnamese": "NHẤT",
+   "meaning": "Biểu tượng số một, thông điệp về sự độc đáo"
+ },
+ {
+   "hanzi": "子",
+   "pinyin": "Zǐ ",
+   "vietnamese": "TỬ",
+   "meaning": "Biểu tượng chi Tý, thông điệp về sự khởi nguyên"
+ },
+ {
+   "hanzi": "子",
+   "pinyin": "Zǐ ",
+   "vietnamese": "TÝ",
+   "meaning": "Biểu tượng con cái, thông điệp về tương lai"
+ },
+ {
+   "hanzi": "寅",
+   "pinyin": "Yín ",
+   "vietnamese": "DẦN",
+   "meaning": "Biểu tượng chi Dần, thông điệp về sức mạnh"
+ },
+ {
+   "hanzi": "申",
+   "pinyin": "Shēn ",
+   "vietnamese": "THÂN",
+   "meaning": "Biểu tượng chi Thân, thông điệp về sự linh hoạt"
+ },
+ {
+   "hanzi": "酉",
+   "pinyin": "Yǒu ",
+   "vietnamese": "DẬU",
+   "meaning": "Biểu tượng chi Dậu, thông điệp về sự đúng giờ"
+ },
+ {
+   "hanzi": "辛",
+   "pinyin": "Xīn ",
+   "vietnamese": "TÂN",
+   "meaning": "Biểu tượng can Tân, thông điệp về sự kiên trì"
+ },
+ {
+   "hanzi": "龙",
+   "pinyin": "Lóng ",
+   "vietnamese": "LONG",
+   "meaning": "Biểu tượng rồng, thông điệp về quyền lực"
+ },
+ {
+   "hanzi": "艾",
+   "pinyin": "Ài ",
+   "vietnamese": "NGẢI",
+   "meaning": "Biểu tượng ngải cứu, thông điệp về sức khỏe"
+ },
+ {
+   "hanzi": "安",
+   "pinyin": "Ān ",
+   "vietnamese": "AN",
+   "meaning": "Biểu tượng an toàn, thông điệp về bình yên"
+ },
+ {
+   "hanzi": "安",
+   "pinyin": "Ān ",
+   "vietnamese": "YÊN",
+   "meaning": "Biểu tượng yên ổn, thông điệp về hạnh phúc"
+ },
+ {
+   "hanzi": "谙",
+   "pinyin": "Ān ",
+   "vietnamese": "AN",
+   "meaning": "Biểu tượng am hiểu, thông điệp về tri thức"
+ },
+ {
+   "hanzi": "敖",
+   "pinyin": "Áo ",
+   "vietnamese": "NGAO",
+   "meaning": "Biểu tượng kiêu hãnh, thông điệp về khí phách"
+ },
+ {
+   "hanzi": "鰲",
+   "pinyin": "Áo ",
+   "vietnamese": "NGAO",
+   "meaning": "Biểu tượng rùa lớn, thông điệp về sự bền vững"
+ },
+ {
+   "hanzi": "八",
+   "pinyin": "Bā ",
+   "vietnamese": "BÁT",
+   "meaning": "Biểu tượng số tám, thông điệp về phát đạt"
+ },
+ {
+   "hanzi": "巴",
+   "pinyin": "Bā ",
+   "vietnamese": "BA",
+   "meaning": "Biểu tượng mong đợi, thông điệp về hy vọng"
+ },
+ {
+   "hanzi": "白",
+   "pinyin": "Bái ",
+   "vietnamese": "BẠCH",
+   "meaning": "Biểu tượng màu trắng, thông điệp về sự thuần khiết"
+ },
+ {
+   "hanzi": "百",
+   "pinyin": "Bǎi ",
+   "vietnamese": "BÁCH",
+   "meaning": "Biểu tượng trăm, thông điệp về sự phong phú"
+ },
+ {
+   "hanzi": "柏",
+   "pinyin": "Bǎi ",
+   "vietnamese": "BÁ",
+   "meaning": "Biểu tượng cây bách, thông điệp về sức sống"
+ },
+ {
+   "hanzi": "班",
+   "pinyin": "Bān ",
+   "vietnamese": "BAN",
+   "meaning": "Biểu tượng nhóm, thông điệp về tập thể"
+ },
+ {
+   "hanzi": "棒",
+   "pinyin": "Bàng ",
+   "vietnamese": "CỪ",
+   "meaning": "Biểu tượng cây gậy, thông điệp về sự hỗ trợ"
+ },
+ {
+   "hanzi": "包",
+   "pinyin": "Bāo ",
+   "vietnamese": "BAO",
+   "meaning": "Biểu tượng bao bọc, thông điệp về sự che chở"
+ },
+ {
+   "hanzi": "薄",
+   "pinyin": "Báo ",
+   "vietnamese": "BẠC",
+   "meaning": "Biểu tượng mỏng manh, thông điệp về sự tinh tế"
+ },
+ {
+   "hanzi": "宝",
+   "pinyin": "Bǎo ",
+   "vietnamese": "BẢO",
+   "meaning": "Biểu tượng bảo vật, thông điệp về giá trị"
+ },
+ {
+   "hanzi": "宝",
+   "pinyin": "Bǎo ",
+   "vietnamese": "BỬU",
+   "meaning": "Biểu tượng quý giá, thông điệp về sự trân trọng"
+ },
+ {
+   "hanzi": "保",
+   "pinyin": "Bǎo ",
+   "vietnamese": "BẢO",
+   "meaning": "Biểu tượng bảo vệ, thông điệp về sự an toàn"
+ },
+ {
+   "hanzi": "葆",
+   "pinyin": "Bǎo ",
+   "vietnamese": "BẢO",
+   "meaning": "Biểu tượng giữ gìn, thông điệp về bảo tồn"
+ },
+ {
+   "hanzi": "鲍",
+   "pinyin": "Bào ",
+   "vietnamese": "BÀO",
+   "meaning": "Biểu tượng bào ngư, thông điệp về sự sang trọng"
+ },
+ {
+   "hanzi": "暴",
+   "pinyin": "Bào ",
+   "vietnamese": "BẠO",
+   "meaning": "Biểu tượng mạnh mẽ, thông điệp về sức mạnh"
+ },
+ {
+   "hanzi": "北",
+   "pinyin": "Běi ",
+   "vietnamese": "BẮC",
+   "meaning": "Biểu tượng phương Bắc, thông điệp về sự kiên định"
+ },
+ {
+   "hanzi": "贝",
+   "pinyin": "Bèi ",
+   "vietnamese": "BỐI",
+   "meaning": "Biểu tượng vỏ sò, thông điệp về của cải"
+ },
+ {
+   "hanzi": "背",
+   "pinyin": "Bèi ",
+   "vietnamese": "BỘI",
+   "meaning": "Biểu tượng lưng, thông điệp về sự nâng đỡ"
+ },
+ {
+   "hanzi": "杉",
+   "pinyin": "Shān ",
+   "vietnamese": "SAM",
+   "meaning": "Biểu tượng cây sam, thông điệp về sự thẳng thắn"
+ },
+ {
+   "hanzi": "贲",
+   "pinyin": "Bēn ",
+   "vietnamese": "BÔN",
+   "meaning": "Biểu tượng trang trí, thông điệp về vẻ đẹp"
+ },
+ {
+   "hanzi": "本",
+   "pinyin": "Běn ",
+   "vietnamese": "BẢN",
+   "meaning": "Biểu tượng gốc rễ, thông điệp về nguồn cội"
+ },
+ {
+   "hanzi": "毕",
+   "pinyin": "Bì ",
+   "vietnamese": "TẤT",
+   "meaning": "Biểu tượng hoàn thành, thông điệp về sự viên mãn"
+ },
+ {
+   "hanzi": "閉",
+   "pinyin": "Bì ",
+   "vietnamese": "BÉ",
+   "meaning": "Biểu tượng đóng lại, thông điệp về sự tập trung"
+ },
+ {
+   "hanzi": "碧",
+   "pinyin": "Bì ",
+   "vietnamese": "BÍCH",
+   "meaning": "Biểu tượng ngọc bích, thông điệp về vẻ đẹp"
+ },
+ {
+   "hanzi": "边",
+   "pinyin": "Biān ",
+   "vietnamese": "BIÊN",
+   "meaning": "Biểu tượng biên giới, thông điệp về sự mở rộng"
+ },
+ {
+   "hanzi": "卞",
+   "pinyin": "Biàn ",
+   "vietnamese": "BIỆN",
+   "meaning": "Biểu tượng nhanh nhẹn, thông điệp về sự linh hoạt"
+ },
+ {
+   "hanzi": "别",
+   "pinyin": "Bié ",
+   "vietnamese": "BIỆT",
+   "meaning": "Biểu tượng chia ly, thông điệp về sự độc lập"
+ },
+ {
+   "hanzi": "冰",
+   "pinyin": "Bīng ",
+   "vietnamese": "BĂNG",
+   "meaning": "Biểu tượng băng, thông điệp về sự trong trắng"
+ },
+ {
+   "hanzi": "兵",
+   "pinyin": "Bīng ",
+   "vietnamese": "BINH",
+   "meaning": "Biểu tượng binh lính, thông điệp về kỷ luật"
+ },
+ {
+   "hanzi": "邴",
+   "pinyin": "Bǐng ",
+   "vietnamese": "BÍNH",
+   "meaning": "Biểu tượng địa danh, thông điệp về nguồn gốc rõ ràng"
+ },
+ {
+   "hanzi": "柄",
+   "pinyin": "Bǐng ",
+   "vietnamese": "BÍNH",
+   "meaning": "Biểu tượng cán (đồ vật), thông điệp về sự nắm giữ quyền lực"
+ },
+ {
+   "hanzi": "波",
+   "pinyin": "Bō ",
+   "vietnamese": "BA",
+   "meaning": "Biểu tượng sóng nước, thông điệp về sự linh hoạt và biến chuyển"
+ },
+ {
+   "hanzi": "伯",
+   "pinyin": "Bó ",
+   "vietnamese": "BÁ",
+   "meaning": "Biểu tượng bậc trưởng bối, thông điệp về sự đứng đầu và kinh nghiệm"
+ },
+ {
+   "hanzi": "博",
+   "pinyin": "Bó ",
+   "vietnamese": "BÁC",
+   "meaning": "Biểu tượng uyên bác, thông điệp về tri thức rộng lớn"
+ },
+ {
+   "hanzi": "卜",
+   "pinyin": "Bǔ ",
+   "vietnamese": "BỐC",
+   "meaning": "Biểu tượng bói toán, thông điệp về sự tiên tri và thông thái"
+ },
+ {
+   "hanzi": "步",
+   "pinyin": "Bù ",
+   "vietnamese": "BỘ",
+   "meaning": "Biểu tượng bước đi, thông điệp về sự tiến bộ từng bước"
+ },
+ {
+   "hanzi": "才",
+   "pinyin": "Cái ",
+   "vietnamese": "TÀI",
+   "meaning": "Biểu tượng tài năng, thông điệp về năng lực thiên phú"
+ },
+ {
+   "hanzi": "財",
+   "pinyin": "Cái ",
+   "vietnamese": "TÀI",
+   "meaning": "Biểu tượng tài sản, thông điệp về sự giàu có và thịnh vượng"
+ },
+ {
+   "hanzi": "彩",
+   "pinyin": "Cǎi ",
+   "vietnamese": "THÁI",
+   "meaning": "Biểu tượng màu sắc, thông điệp về cuộc sống rực rỡ"
+ },
+ {
+   "hanzi": "蔡",
+   "pinyin": "Cài ",
+   "vietnamese": "THÁI",
+   "meaning": "Biểu tượng họ Thái, thông điệp về dòng dõi cao quý"
+ },
+ {
+   "hanzi": "蔡",
+   "pinyin": "Cài ",
+   "vietnamese": "SÁI",
+   "meaning": "Biểu tượng cây cỏ, thông điệp về sức sống mãnh liệt"
+ },
+ {
+   "hanzi": "苍",
+   "pinyin": "Cāng ",
+   "vietnamese": "THƯƠNG",
+   "meaning": "Biểu tượng màu xanh, thông điệp về sự tươi mới và hy vọng"
+ },
+ {
+   "hanzi": "鸧",
+   "pinyin": "Cāng ",
+   "vietnamese": "THƯƠNG",
+   "meaning": "Biểu tượng chim hạc, thông điệp về sự thanh cao"
+ },
+ {
+   "hanzi": "藏",
+   "pinyin": "Cáng ",
+   "vietnamese": "TÀNG",
+   "meaning": "Biểu tượng cất giấu, thông điệp về sự sâu sắc và bí ẩn"
+ },
+ {
+   "hanzi": "曹",
+   "pinyin": "Cáo ",
+   "vietnamese": "TÀO",
+   "meaning": "Biểu tượng họ Tào, thông điệp về truyền thống gia tộc"
+ },
+ {
+   "hanzi": "草",
+   "pinyin": "Cǎo ",
+   "vietnamese": "THẢO",
+   "meaning": "Biểu tượng cỏ cây, thông điệp về sự giản dị và khiêm tốn"
+ },
+ {
+   "hanzi": "岑",
+   "pinyin": "Cén ",
+   "vietnamese": "SẦM",
+   "meaning": "Biểu tượng núi nhỏ, thông điệp về sự vững chãi nhưng không kém phần thanh nhã"
+ },
+ {
+   "hanzi": "曾",
+   "pinyin": "Céng ",
+   "vietnamese": "TĂNG",
+   "meaning": "Biểu tượng họ Tăng, thông điệp về nguồn gốc lâu đời"
+ },
+ {
+   "hanzi": "茶",
+   "pinyin": "Chá ",
+   "vietnamese": "TRÀ",
+   "meaning": "Biểu tượng trà, thông điệp về sự thanh tao và tinh tế"
+ },
+ {
+   "hanzi": "查",
+   "pinyin": "Chá ",
+   "vietnamese": "TRA",
+   "meaning": "Biểu tượng tìm kiếm, thông điệp về sự ham học hỏi"
+ },
+ {
+   "hanzi": "釵",
+   "pinyin": "Chāi ",
+   "vietnamese": "THOA",
+   "meaning": "Biểu tượng trâm cài, thông điệp về vẻ đẹp nữ tính"
+ },
+ {
+   "hanzi": "柴",
+   "pinyin": "Chái ",
+   "vietnamese": "SÀI",
+   "meaning": "Biểu tượng củi, thông điệp về sự chịu khó và cần cù"
+ },
+ {
+   "hanzi": "禅",
+   "pinyin": "Chán ",
+   "vietnamese": "THIỀN",
+   "meaning": "Biểu tượng thiền định, thông điệp về sự an nhiên tự tại"
+ },
+ {
+   "hanzi": "常",
+   "pinyin": "Cháng ",
+   "vietnamese": "THƯỜNG",
+   "meaning": "Biểu tượng thường xuyên, thông điệp về sự ổn định và bền vững"
+ },
+ {
+   "hanzi": "嫦",
+   "pinyin": "Cháng ",
+   "vietnamese": "HI",
+   "meaning": "Biểu tượng Hằng Nga, thông điệp về vẻ đẹp vĩnh hằng"
+ },
+ {
+   "hanzi": "曦",
+   "pinyin": "Xī ",
+   "vietnamese": "HI",
+   "meaning": "Biểu tượng ánh bình minh, thông điệp về sự khởi đầu tươi sáng"
+ },
+ {
+   "hanzi": "巢",
+   "pinyin": "Cháo ",
+   "vietnamese": "SÀO",
+   "meaning": "Biểu tượng tổ ấm, thông điệp về mái ấm gia đình"
+ },
+ {
+   "hanzi": "朝",
+   "pinyin": "Cháo ",
+   "vietnamese": "TRIỀU",
+   "meaning": "Biểu tượng triều đại, thông điệp về quyền lực và uy nghiêm"
+ },
+ {
+   "hanzi": "沉",
+   "pinyin": "Chén ",
+   "vietnamese": "TRẦM",
+   "meaning": "Biểu tượng chìm sâu, thông điệp về sự thâm trầm và sâu sắc"
+ },
+ {
+   "hanzi": "陈",
+   "pinyin": "Chén ",
+   "vietnamese": "TRẦN",
+   "meaning": "Biểu tượng họ Trần, thông điệp về truyền thống lâu đời"
+ },
+ {
+   "hanzi": "陳",
+   "pinyin": "Chén ",
+   "vietnamese": "TRẦN",
+   "meaning": "Biểu tượng sắp xếp, thông điệp về sự ngăn nắp và có tổ chức"
+ },
+ {
+   "hanzi": "晨",
+   "pinyin": "Chén ",
+   "vietnamese": "THẦN",
+   "meaning": "Biểu tượng buổi sáng, thông điệp về sự tươi mới và hy vọng"
+ },
+ {
+   "hanzi": "芙",
+   "pinyin": "Fú ",
+   "vietnamese": "PHÙ",
+   "meaning": "Biểu tượng hoa sen, thông điệp về vẻ đẹp thuần khiết"
+ },
+ {
+   "hanzi": "成",
+   "pinyin": "Chéng ",
+   "vietnamese": "THÀNH",
+   "meaning": "Biểu tượng thành công, thông điệp về sự hoàn thành và đạt được mục tiêu"
+ },
+ {
+   "hanzi": "诚",
+   "pinyin": "Chéng ",
+   "vietnamese": "THÀNH",
+   "meaning": "Biểu tượng thành thật, thông điệp về sự chân thành và đáng tin cậy"
+ },
+ {
+   "hanzi": "城",
+   "pinyin": "Chéng ",
+   "vietnamese": "THÀNH",
+   "meaning": "Biểu tượng thành trì, thông điệp về sự bảo vệ và an toàn"
+ },
+ {
+   "hanzi": "程",
+   "pinyin": "Chéng ",
+   "vietnamese": "TRÌNH",
+   "meaning": "Biểu tượng hành trình, thông điệp về con đường phát triển"
+ },
+ {
+   "hanzi": "崢",
+   "pinyin": "Zhēng ",
+   "vietnamese": "TRANH",
+   "meaning": "Biểu tượng núi cao, thông điệp về chí khí cao vời"
+ },
+ {
+   "hanzi": "池",
+   "pinyin": "Chí ",
+   "vietnamese": "TRÌ",
+   "meaning": "Biểu tượng ao hồ, thông điệp về sự bình yên và tĩnh lặng"
+ },
+ {
+   "hanzi": "充",
+   "pinyin": "Chōng ",
+   "vietnamese": "SUNG",
+   "meaning": "Biểu tượng đầy đủ, thông điệp về sự viên mãn và trọn vẹn"
+ },
+ {
+   "hanzi": "仇",
+   "pinyin": "Chóu ",
+   "vietnamese": "CỪU",
+   "meaning": "Biểu tượng thù hận, thông điệp về sự cảnh giác (ít dùng đặt tên)"
+ },
+ {
+   "hanzi": "绸",
+   "pinyin": "Chóu ",
+   "vietnamese": "LỤA",
+   "meaning": "Biểu tượng lụa, thông điệp về sự mềm mại và quý phái"
+ },
+ {
+   "hanzi": "初",
+   "pinyin": "Chū ",
+   "vietnamese": "THƠ",
+   "meaning": "Biểu tượng khởi đầu, thông điệp về sự mới mẻ và tiềm năng"
+ },
+ {
+   "hanzi": "储",
+   "pinyin": "Chǔ ",
+   "vietnamese": "TRỮ",
+   "meaning": "Biểu tượng tích trữ, thông điệp về sự chuẩn bị chu đáo"
+ },
+ {
+   "hanzi": "褚",
+   "pinyin": "Chǔ ",
+   "vietnamese": "CHỬ",
+   "meaning": "Biểu tượng họ Chử, thông điệp về dòng dõi quý tộc"
+ },
+ {
+   "hanzi": "川",
+   "pinyin": "Chuān ",
+   "vietnamese": "XUYÊN",
+   "meaning": "Biểu tượng sông ngòi, thông điệp về sự lưu chuyển và thích nghi"
+ },
+ {
+   "hanzi": "串",
+   "pinyin": "Chuàn ",
+   "vietnamese": "XUYẾN",
+   "meaning": "Biểu tượng chuỗi, thông điệp về sự kết nối và liên tục"
+ },
+ {
+   "hanzi": "创",
+   "pinyin": "Chuàng ",
+   "vietnamese": "SANG",
+   "meaning": "Biểu tượng sáng tạo, thông điệp về đổi mới và phát kiến"
+ },
+ {
+   "hanzi": "创",
+   "pinyin": "Chuàng ",
+   "vietnamese": "SÁNG",
+   "meaning": "Biểu tượng khởi nghiệp, thông điệp về tinh thần doanh nhân"
+ },
+ {
+   "hanzi": "怆",
+   "pinyin": "Chuàng ",
+   "vietnamese": "THƯƠNG",
+   "meaning": "Biểu tượng nỗi buồn, thông điệp về sự đồng cảm (ít dùng đặt tên)"
+ },
+ {
+   "hanzi": "垂",
+   "pinyin": "Chuí ",
+   "vietnamese": "THÙY",
+   "meaning": "Biểu tượng rủ xuống, thông điệp về sự khiêm nhường"
+ },
+ {
+   "hanzi": "春",
+   "pinyin": "Chūn ",
+   "vietnamese": "XUÂN",
+   "meaning": "Biểu tượng mùa xuân, thông điệp về sự tươi mới và hy vọng"
+ },
+ {
+   "hanzi": "淳",
+   "pinyin": "Chún ",
+   "vietnamese": "THUẦN",
+   "meaning": "Biểu tượng thuần khiết, thông điệp về sự chân chất mộc mạc"
+ },
+ {
+   "hanzi": "葱",
+   "pinyin": "Cōng ",
+   "vietnamese": "THÔNG",
+   "meaning": "Biểu tượng hành lá, thông điệp về sức sống mãnh liệt"
+ },
+ {
+   "hanzi": "聪",
+   "pinyin": "Cōng ",
+   "vietnamese": "THÔNG",
+   "meaning": "Biểu tượng thông minh, thông điệp về trí tuệ sáng suốt"
+ },
+ {
+   "hanzi": "从",
+   "pinyin": "Cóng ",
+   "vietnamese": "TÒNG",
+   "meaning": "Biểu tượng đi theo, thông điệp về sự hòa hợp"
+ },
+ {
+   "hanzi": "从",
+   "pinyin": "Cóng ",
+   "vietnamese": "TÙNG",
+   "meaning": "Biểu tượng thuận theo, thông điệp về tính cách dễ hòa đồng"
+ },
+ {
+   "hanzi": "崔",
+   "pinyin": "Cuī ",
+   "vietnamese": "THÔI",
+   "meaning": "Biểu tượng núi cao, thông điệp về sự vững chãi"
+ },
+ {
+   "hanzi": "翠",
+   "pinyin": "Cuì ",
+   "vietnamese": "THÚY",
+   "meaning": "Biểu tượng màu ngọc bích, thông điệp về vẻ đẹp tinh tế"
+ },
+ {
+   "hanzi": "达",
+   "pinyin": "Dá ",
+   "vietnamese": "ĐẠT",
+   "meaning": "Biểu tượng đạt được, thông điệp về thành công"
+ },
+ {
+   "hanzi": "達",
+   "pinyin": "Dá ",
+   "vietnamese": "ĐẠT",
+   "meaning": "Biểu tượng thông suốt, thông điệp về sự am hiểu"
+ },
+ {
+   "hanzi": "大",
+   "pinyin": "Dà ",
+   "vietnamese": "ĐẠI",
+   "meaning": "Biểu tượng to lớn, thông điệp về sự vĩ đại"
+ },
+ {
+   "hanzi": "戴",
+   "pinyin": "Dài ",
+   "vietnamese": "ĐỚI",
+   "meaning": "Biểu tượng mang theo, thông điệp về sự gánh vác"
+ },
+ {
+   "hanzi": "丹",
+   "pinyin": "Dān ",
+   "vietnamese": "ĐAN",
+   "meaning": "Biểu tượng màu đỏ, thông điệp về lòng nhiệt huyết"
+ },
+ {
+   "hanzi": "担",
+   "pinyin": "Dān ",
+   "vietnamese": "ĐAM",
+   "meaning": "Biểu tượng gánh vác, thông điệp về trách nhiệm"
+ },
+ {
+   "hanzi": "担",
+   "pinyin": "Dān ",
+   "vietnamese": "ĐẢM",
+   "meaning": "Biểu tượng đảm đương, thông điệp về sự tin cậy"
+ },
+ {
+   "hanzi": "单",
+   "pinyin": "Dān ",
+   "vietnamese": "ĐAN",
+   "meaning": "Biểu tượng đơn độc, thông điệp về sự độc lập"
+ },
+ {
+   "hanzi": "单",
+   "pinyin": "Dān ",
+   "vietnamese": "THIỀN",
+   "meaning": "Biểu tượng giản đơn, thông điệp về lối sống mộc mạc"
+ },
+ {
+   "hanzi": "淡",
+   "pinyin": "Dàn ",
+   "vietnamese": "ĐẠM",
+   "meaning": "Biểu tượng nhạt nhòa, thông điệp về sự thanh tao"
+ },
+ {
+   "hanzi": "澹",
+   "pinyin": "Dàn ",
+   "vietnamese": "ĐAM",
+   "meaning": "Biểu tượng yên tĩnh, thông điệp về tâm hồn bình thản"
+ },
+ {
+   "hanzi": "台",
+   "pinyin": "Tái ",
+   "vietnamese": "ĐÀI",
+   "meaning": "Biểu tượng đài các, thông điệp về địa vị cao"
+ },
+ {
+   "hanzi": "党",
+   "pinyin": "Dǎng ",
+   "vietnamese": "ĐẢNG",
+   "meaning": "Biểu tượng chính đảng, thông điệp về tinh thần tập thể"
+ },
+ {
+   "hanzi": "岛",
+   "pinyin": "Dǎo ",
+   "vietnamese": "ĐẢO",
+   "meaning": "Biểu tượng hòn đảo, thông điệp về sự độc lập"
+ },
+ {
+   "hanzi": "道",
+   "pinyin": "Dào ",
+   "vietnamese": "ĐẠO",
+   "meaning": "Biểu tượng con đường, thông điệp về chân lý cuộc đời"
+ },
+ {
+   "hanzi": "得",
+   "pinyin": "Dé ",
+   "vietnamese": "ĐẮC",
+   "meaning": "Biểu tượng đạt được, thông điệp về sự thành công"
+ },
+ {
+   "hanzi": "得",
+   "pinyin": "Dé ",
+   "vietnamese": "ĐƯỢC",
+   "meaning": "Biểu tượng hài lòng, thông điệp về sự mãn nguyện"
+ },
+ {
+   "hanzi": "德",
+   "pinyin": "Dé ",
+   "vietnamese": "ĐỨC",
+   "meaning": "Biểu tượng đạo đức, thông điệp về nhân cách cao quý"
+ },
+ {
+   "hanzi": "灯",
+   "pinyin": "Dēng ",
+   "vietnamese": "ĐĂNG",
+   "meaning": "Biểu tượng ngọn đèn, thông điệp về ánh sáng tri thức"
+ },
+ {
+   "hanzi": "登",
+   "pinyin": "Dēng ",
+   "vietnamese": "ĐĂNG",
+   "meaning": "Biểu tượng leo lên, thông điệp về sự thăng tiến"
+ },
+ {
+   "hanzi": "等",
+   "pinyin": "Děng ",
+   "vietnamese": "ĐẲNG",
+   "meaning": "Biểu tượng chờ đợi, thông điệp về sự kiên nhẫn"
+ },
+ {
+   "hanzi": "邓",
+   "pinyin": "Dèng ",
+   "vietnamese": "ĐẶNG",
+   "meaning": "Biểu tượng họ Đặng, thông điệp về dòng họ lớn"
+ },
+ {
+   "hanzi": "鄧",
+   "pinyin": "Dèng ",
+   "vietnamese": "ĐẶNG",
+   "meaning": "Biểu tượng họ Đặng (phồn thể), thông điệp về gia tộc"
+ },
+ {
+   "hanzi": "狄",
+   "pinyin": "Dí ",
+   "vietnamese": "ĐỊCH",
+   "meaning": "Biểu tượng dân tộc thiểu số, thông điệp về sự hòa hợp"
+ },
+ {
+   "hanzi": "嫡",
+   "pinyin": "Dí ",
+   "vietnamese": "ĐÍCH",
+   "meaning": "Biểu tượng chính thất, thông điệp về sự chính thống"
+ },
+ {
+   "hanzi": "五",
+   "pinyin": "Wǔ ",
+   "vietnamese": "NGŨ",
+   "meaning": "Biểu tượng số năm, thông điệp về sự cân bằng"
+ },
+ {
+   "hanzi": "典",
+   "pinyin": "Diǎn ",
+   "vietnamese": "ĐIỂN",
+   "meaning": "Biểu tượng kinh điển, thông điệp về sự uyên bác"
+ },
+ {
+   "hanzi": "点",
+   "pinyin": "Diǎn ",
+   "vietnamese": "ĐIỂM",
+   "meaning": "Biểu tượng điểm nhấn, thông điệp về sự tinh tế"
+ },
+ {
+   "hanzi": "电",
+   "pinyin": "Diàn ",
+   "vietnamese": "ĐIỆN",
+   "meaning": "Biểu tượng điện lực, thông điệp về năng lượng"
+ },
+ {
+   "hanzi": "刁",
+   "pinyin": "Diāo ",
+   "vietnamese": "ĐIÊU",
+   "meaning": "Biểu tượng xảo quyệt, thông điệp về sự khôn ngoan (ít dùng đặt tên)"
+ },
+ {
+   "hanzi": "蝶",
+   "pinyin": "Dié ",
+   "vietnamese": "ĐIỆP",
+   "meaning": "Biểu tượng bướm, thông điệp về vẻ đẹp tự do"
+ },
+ {
+   "hanzi": "订",
+   "pinyin": "Dìng ",
+   "vietnamese": "ĐÍNH",
+   "meaning": "Biểu tượng đặt hàng, thông điệp về sự chuẩn bị"
+ },
+ {
+   "hanzi": "定",
+   "pinyin": "Dìng ",
+   "vietnamese": "ĐỊNH",
+   "meaning": "Biểu tượng ổn định, thông điệp về sự bền vững"
+ },
+ {
+   "hanzi": "东",
+   "pinyin": "Dōng ",
+   "vietnamese": "ĐÔNG",
+   "meaning": "Biểu tượng phương Đông, thông điệp về sự khởi đầu"
+ },
+ {
+   "hanzi": "阁",
+   "pinyin": "Gé ",
+   "vietnamese": "CÁC",
+   "meaning": "Biểu tượng lầu các, thông điệp về địa vị cao"
+ },
+ {
+   "hanzi": "门",
+   "pinyin": "Mén ",
+   "vietnamese": "MÔN",
+   "meaning": "Biểu tượng cửa, thông điệp về cơ hội"
+ },
+ {
+   "hanzi": "冬",
+   "pinyin": "Dōng ",
+   "vietnamese": "ĐÔNG",
+   "meaning": "Biểu tượng mùa đông, thông điệp về sự kiên cường"
+ } 
+]
